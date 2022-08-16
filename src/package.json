@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "antd": "4.22.5",
+    "chrome-tabs": "5.4.0",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "svg.js": "2.7.1"
+  },
+  "keywords": [
+    "antd",
+    "ant",
+    "react"
+  ],
+  "name": "antd-template",
+  "description": "Ant design starter"
+}

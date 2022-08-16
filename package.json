@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "antd": "4.22.5",
+    "chrome-tabs": "5.4.0",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "svg.js": "2.7.1"
+  },
+  "keywords": [
+    "antd",
+    "ant",
+    "react"
+  ],
+  "name": "hbjopf",
+  "description": "Ant design starter",
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
